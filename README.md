@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaviskarShital31
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Java Development,Android Development
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on Mobile Application Using Java technology
 - 📫 How to reach me shitalbaviskar2021@gmail.com
